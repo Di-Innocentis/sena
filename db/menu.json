@@ -1,0 +1,7 @@
+{
+  "platillos": [
+    { "id": 1, "nombre": "Fish and Chips", "precio": 15.99, "disponible": true },
+    { "id": 2, "nombre": "Hamburguesa Clásica", "precio": 12.50, "disponible": true },
+    { "id": 3, "nombre": "Pasta Carbonara", "precio": 14.00, "disponible": false }
+  ]
+}
